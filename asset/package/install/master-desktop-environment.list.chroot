@@ -1,0 +1,32 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Lingmo
+##
+
+##
+## ## * [LingmoOS/live-build-config/lingmo-config/installer-everything/packages](https://github.com/LingmoOS/live-build-config/blob/master/lingmo-config/installer-everything/packages#L48)
+##
+
+#lingmo-workspace-base
+
+
+
+
+##
+## ## Package / Extra Tool / Kde
+##
+
+konsole
+yakuake
+dolphin
+kate
+kwrite
+#kdevelop
